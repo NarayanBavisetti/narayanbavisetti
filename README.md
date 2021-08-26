@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bavisetti-narayan-a94b5918b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bavisetti-narayan-a94b5918b/" height="30" width="40" /></a>
 <a href="https://instagram.com/bavisettinarayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bavisettinarayan/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/uccmnjfaruhzi__fpkkxrvnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uccmnjfaruhzi__fpkkxrvnw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uccmnjfaruhzi__fpkkxrvnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uccmnjfaruhzi__fpkkxrvnw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/narayan3119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="narayan3119/" height="30" width="40" /></a>
 </p>
 
