@@ -53,9 +53,5 @@
 </p>
 
 
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NarayanBavisetti">
-</a>
-<a href="https://github.com/NarayanBavisetti?tab=followers"><img src="https://img.shields.io/github/followers/NarayanBavisetti?label=Followers&style=social" alt="GitHub Badge"></a>
+## Watch my contribution graph get eaten by the snake
+![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
