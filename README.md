@@ -53,5 +53,4 @@
 </p>
 
 
-## Watch my contribution graph get eaten by the snake
-![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
+
